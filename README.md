@@ -1,2 +1,2 @@
-# tic-tac-toe
-Use this game for fun
+# Tic-Tac-Toe
+Play this game for fun
